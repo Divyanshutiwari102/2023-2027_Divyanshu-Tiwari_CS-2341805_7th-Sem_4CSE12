@@ -11,14 +11,14 @@ This repository contains the official documents submitted for the **Summer Inter
 | Field | Details |
 |---|---|
 | **Student Name** | Divyanshu Tiwari |
-| **Roll Number** | [ENTER ROLL NUMBER] |
+| **Roll Number** | Cs-2341805 |
 | **Program** | B.Tech Computer Science & Engineering |
-| **Semester** | [ENTER SEMESTER] |
+| **Semester** | 7th |
 | **Batch** | 2026–27 |
 | **University** | IILM University, Greater Noida |
 | **Organization** | Code-B Solutions Pvt. Ltd. |
 | **Internship Role** | Java Backend & Cloud Engineering Intern |
-| **Internship Duration** | March 2026 – May 2026 |
+| **Internship Duration** | March 2026 – Aug 2026 |
 
 ---
 
